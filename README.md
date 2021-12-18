@@ -1,4 +1,4 @@
-# Beginner's Website
+# Website for a hospital
 Project created using Html and CSS 
 
 
